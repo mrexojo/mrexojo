@@ -12,10 +12,6 @@
  ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
  
- <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrexojo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrexojo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
-</p>
  
 <a href="https://twitter.com/mrexojo" target="blank"><img src="https://img.shields.io/twitter/follow/mrexojo?logo=twitter&style=for-the-badge" alt="mrexojo" /></a> </span>
  
