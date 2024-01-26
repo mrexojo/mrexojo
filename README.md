@@ -1,8 +1,4 @@
-<a href="https://mrexojo.com"><img src="https://raw.githubusercontent.com/mrexojo/website/main/mrexojo-b-w.png" width="30%" height="30%"></a>
-
-
-
-### Background
+### Cloud & DevOps Infrastructure Services
 
 <p align="left"><a href="https://aws.amazon.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" /><a href="console.cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" /><a href="openstack.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" alt="OpenStack" /> <a href="https://alibabacloud.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="AlibabaCloud" /> 
 
