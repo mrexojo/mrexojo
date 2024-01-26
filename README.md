@@ -8,9 +8,6 @@
  ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
  
- 
-<a href="https://twitter.com/mrexojo" target="blank"><img src="https://img.shields.io/twitter/follow/mrexojo?logo=twitter&style=for-the-badge" alt="mrexojo" /></a> </span>
- 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrexojo/)](https://www.linkedin.com/in/mrexojo/)
 
